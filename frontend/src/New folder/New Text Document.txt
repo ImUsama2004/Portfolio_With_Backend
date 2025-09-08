@@ -1,0 +1,3 @@
+service id = service_lmsa5mh
+templateid = template_931yalq
+public key = YqLUNUIx7OgyzXx-c
